@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnimalGameStore", "AnimalGameStore\AnimalGameStore.csproj", "{5977BEA0-EB1F-4906-AFD4-F2F5F3492370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalGameStoreTests", "AnimalGameStoreTests\AnimalGameStoreTests.csproj", "{5BDF7AFC-3F71-49DE-B7F3-B591ABDB32D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5977BEA0-EB1F-4906-AFD4-F2F5F3492370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5977BEA0-EB1F-4906-AFD4-F2F5F3492370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5977BEA0-EB1F-4906-AFD4-F2F5F3492370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5977BEA0-EB1F-4906-AFD4-F2F5F3492370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BDF7AFC-3F71-49DE-B7F3-B591ABDB32D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDF7AFC-3F71-49DE-B7F3-B591ABDB32D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDF7AFC-3F71-49DE-B7F3-B591ABDB32D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDF7AFC-3F71-49DE-B7F3-B591ABDB32D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F34F66E-CA02-438E-AD5C-129C22697F28}
+	EndGlobalSection
+EndGlobal
